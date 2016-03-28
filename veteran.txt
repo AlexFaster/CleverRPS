@@ -1,0 +1,15 @@
+R,R,R,S 1
+R,R,S,R 1
+P,P,P,R 2
+P,P,R,R 2
+R,R,R,P 1
+R,R,R,R 20
+P,P,P,P 7
+P,R,R,R 2
+R,R,P,P 2
+R,P,P,P 2
+R,S,R,S 8
+R,S,R,R 2
+S,R,R,P 1
+S,R,S,R 8
+S,R,R,R 1
